@@ -1,2 +1,2 @@
-# Medina_Rodriguez_Franciosco_Javier
+# Medina_Rodriguez_Francisco_Javier
 Portafolio_de_Programacion_de_robots_industriales
